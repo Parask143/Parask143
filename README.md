@@ -1,16 +1,13 @@
-## Hi there 👋
+### Paras Kundra
 
-<!--
-**Parask143/Parask143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder · Auckland, New Zealand
 
-Here are some ideas to get you started:
+Building three companies — [Skymate](https://github.com/skymate), ECO, and Leaf — while finishing a law degree.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Teacher in the classroom. Writer on the internet. Most days, all three at once.
+
+—
+
+[LinkedIn](https://www.linkedin.com/in/paras-kundra-665b211a1/) · [Instagram](https://www.instagram.com/kundrraa1)
+
+<sub>The interesting code lives in private repos.</sub>
