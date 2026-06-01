@@ -1,4 +1,8 @@
-### Hi, I'm Paras Kundra 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V4Y2g3Z3R5N3M0Y3g5bXg1bXg1bXg1bXg1bXg1bXg1bXg1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2saalBwwftBIY/giphy.gif" alt="Aesthetic Colorful Banner" width="100%">
+</p>
+
+## Hi, I'm Paras Kundra 👋
 
 **Founder • Auckland, New Zealand**
 
